@@ -1,0 +1,21 @@
+{
+  "name": "capsicum",
+  "version": "0.0.0",
+  "homepage": "https://github.com/olivejs/capsicum",
+  "authors": [
+    "Mohammad Islam <reefat@gmail.com>"
+  ],
+  "description": "Web UI library",
+  "main": "capsicum.css",
+  "keywords": [
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
